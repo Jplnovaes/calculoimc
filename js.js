@@ -7,5 +7,5 @@ function ve(){
 
     var imc = peso.value / (altura.value*altura.value);
 
-    exibir.innerHTML = imc;
+    exibir.innerHTML = Math.round(imc);
 }
