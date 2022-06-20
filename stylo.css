@@ -1,0 +1,15 @@
+.cabe{
+    background-color: rgb(205, 210, 214);
+    padding: 30px;
+}
+label{
+    margin-right: 40px;
+}
+button{
+    width: 300px;
+    margin-bottom: 20px;
+  
+}
+table{
+    margin: 20px;
+}
